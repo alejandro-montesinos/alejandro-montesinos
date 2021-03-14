@@ -4,4 +4,4 @@ I am a Data Scientist and Economist passionate about applying statistical and da
 
 ##### About Me
 
-- 🏢 Associate Research Manager at **Acumen, LLC**
+- 🏢 Associate Research Manager at [Acumen, LCC](https://www.acumenllc.com)
