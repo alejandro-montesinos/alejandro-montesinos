@@ -8,7 +8,7 @@ I am a Data Scientist and Economist passionate about applying statistical and da
 - :mortar_board: MSc. in Economic Theory and Econometrics from [Toulouse School of Economics (TSE)](https://www.tse-fr.eu)
 - :mortar_board: B.A. in Economics from [Ibero-American University (UIA), Mexico City](https://ibero.mx) 
 - :round_pushpin: San Francisco, CA :us:
-- :soccer: Soccer/Football fan
+- :soccer: Soccer\Football fan
 
 ---
 ### Contact Me
