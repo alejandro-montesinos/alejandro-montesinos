@@ -6,7 +6,7 @@ I am a Data Scientist and Economist passionate about applying statistical and da
 ### About Me
 - 🏢 Associate Research Manager at [Acumen, LLC](https://www.acumenllc.com)
 - :mortar_board: MSc. in Economic Theory and Econometrics from [Toulouse School of Economics (TSE)](https://www.tse-fr.eu)
-- :mortar_board: B.A. in Economics from [Ibero-American University (UIA), Mexico City](https://ibero.mx) 
+- :mortar_board: B.A. in Economics from [Ibero-American University (UIA), Mexico City](https://ibero.mx/about-ibero) 
 - :round_pushpin: San Francisco, CA  :🇺🇸:
 - :soccer: Soccer\Football fan
 
