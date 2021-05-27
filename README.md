@@ -14,6 +14,6 @@ I am a Data Scientist and Economist passionate about applying statistics and dat
 ### Contact Me
 <p align="left">
   <a href="https://www.linkedin.com/in/alejandro-montesinos/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:3px">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align:top; margin:3px">
   </a>
 </p>
