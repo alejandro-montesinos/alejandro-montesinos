@@ -8,7 +8,6 @@ I am a Data Scientist and Economist passionate about applying statistics and dat
 - 🎓 M.S. in Economic Theory and Econometrics from [Toulouse School of Economics (TSE)](https://www.tse-fr.eu/about)
 - 🎓 B.A. in Economics from [Ibero-American University (IBERO), Mexico City](https://ibero.mx/about-ibero) 
 - 📍 San Francisco, CA 🇺🇸 
-- ⚽ Soccer\Football fan
 
 ---
 ### Contact Me
