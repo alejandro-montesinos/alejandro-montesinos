@@ -1,4 +1,4 @@
-<img src="https://github.com/alejandro-montesinos/alejandro-montesinos/blob/master/Centered_Banner.png" height="350px" width="auto" align="center" alt="README Header" title="README Header"/>
+<img src="https://github.com/alejandro-montesinos/alejandro-montesinos/blob/master/Centered_Banner.png" height="auto" width="auto" align="center" alt="README Header" title="README Header"/>
 
 ## Alejandro Montesinos 
 
