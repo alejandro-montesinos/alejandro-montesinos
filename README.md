@@ -1,4 +1,4 @@
-<img src="https://github.com/alejandro-montesinos/alejandro-montesinos/blob/master/Centered_Banner.png" height="100" width="auto" align="center" alt="README Header" title="README Header"/>
+<img src="https://github.com/alejandro-montesinos/alejandro-montesinos/blob/master/Centered_Banner.png" height="200" width="auto" align="center" alt="README Header" title="README Header"/>
 
 I am a Data Scientist and Economist passionate about applying statistics and data science methods to derive data-driven solutions. I have over a decade of experience in developing analytical methodologies and conducting statistical modeling for public policy research.
  
