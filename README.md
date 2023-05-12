@@ -5,7 +5,7 @@
 I am a Data Scientist and Economist passionate about applying statistics and data science methods to derive data-driven solutions. I have over a decade of experience in developing analytical methodologies and conducting statistical modeling for public policy research.
  
 
-- 🏢 Associate Research Manager at [Acumen, LLC](https://www.acumenllc.com)
+- 🏢 Research Manager at [Acumen, LLC](https://www.acumenllc.com)
 - 🎓 M.S. in Economic Theory and Econometrics from [Toulouse School of Economics (TSE)](https://www.tse-fr.eu/about)
 - 🎓 B.A. in Economics from [Ibero-American University (IBERO), Mexico City](https://ibero.mx/about-ibero) 
 - 📍 San Francisco, CA 🇺🇸 
