@@ -1,4 +1,4 @@
-<img src="https://github.com/alejandro-montesinos/alejandro-montesinos/blob/master/_2023_Tech_GitHub.png" height="auto" width="auto" align="center" alt="README Header" title="README Header"/>
+<img src="https://github.com/alejandro-montesinos/alejandro-montesinos/blob/master/2023_Tech_GitHub.png" height="auto" width="auto" align="center" alt="README Header" title="README Header"/>
 
 ---
 ### About Me
